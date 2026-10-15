@@ -1,0 +1,13 @@
+Ticket_ID,Ticket_Text
+T01,The file is 95.5% uploaded.
+T02,I was locked out of the printer when connected to campus Wi-Fi. Is there another solution?
+T03,The lms is showing an error. Is there another solution?
+T04,Server keeps asking for login during the lab. Is there another solution?
+T05,The password is running slowly. This is urgent.
+T06,I reinstalled the printer after resetting my password. Can you check this?
+T07,I can't open the server after the latest update. The same problem occurs again.
+T08,It's not the laptop; it's the server.
+T09,The LMS says 'Not Submitted'.
+T10,Laptop stopped responding during the lab. I don't know what changed.
+T11,The Python is not working. Please help.
+T12,See https://lms.thapar.edu/help for details.
